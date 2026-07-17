@@ -41,3 +41,7 @@ frontend/dist/
 # --------------------
 .DS_Store
 Thumbs.db
+
+# Machine Learning Models
+*.pkl
+backend/models/
